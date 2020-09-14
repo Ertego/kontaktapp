@@ -1,0 +1,1 @@
+module.exports={"pages": 'kontakte/src/pages'};
